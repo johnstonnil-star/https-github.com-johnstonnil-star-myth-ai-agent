@@ -1,2 +1,2 @@
-# https-github.com-johnstonnil-star-myth-ai-agent
+myth-ai-agent
 Nil
